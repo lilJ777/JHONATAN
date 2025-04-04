@@ -1,0 +1,33 @@
+body {
+    background-image: url(foto\ 2.jpg);
+}
+
+h1 {
+    color:#fa0000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+
+}
+p{
+    color: rgb(250, 0, 0);
+    font-size:70px;
+    top: 400px;
+}
+img {
+    width: 1000px;
+
+}
+.horario {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(250, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 400px;
+    left: 560px;
+    border-radius: 100px;
+    border: 5px solid rgb(0, 0, 0);
+
+}

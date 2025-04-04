@@ -1,0 +1,32 @@
+body {
+    background-image: url(foto\ 3.jpg);
+}
+ h1 {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ul {
+    color: white;
+}
+ .log{
+
+ }
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    font-size: xx-large;
+}
+ nav a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+
+ }
+
+ .hd {
+    background: linear-gradient(#fa0000, black);
+    
+ }
